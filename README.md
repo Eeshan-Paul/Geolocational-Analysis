@@ -1,8 +1,8 @@
 # Geolocational-Analysis
-It uses K means for analysis of best location suitable for students in Kolkata and thus helping them to select the best places according to their preferences and budget.
-It is using folium to draw the map thus is visual friendly.
-Also various machine learning , data cleaning and data visualisation technique have been implemented to help the user to get a more structured view.
-The outliers and NaN values are handled with various data cleaning techniques of machine learning.
+This is a project on exploratory analysis on geolocational data.
+We created this project for the persons who have recently shifted to kolkata and is trying to get a desired place according to their choice and preferences and thus is beneficial for both the restuarants and the person 
+
+Firstly, we collect a student dataset where the preferences,income,habits etc. of a student are stored and 
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/62149967/137630592-fe430ec8-0f91-49de-9b41-a3544d60914f.png)
 
