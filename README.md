@@ -7,8 +7,8 @@ Firstly, we collect a student dataset where the preferences,income,habits etc. o
 ![Screenshot (171)](https://user-images.githubusercontent.com/62149967/137630592-fe430ec8-0f91-49de-9b41-a3544d60914f.png)
 
 
+![Screenshot (183)](https://user-images.githubusercontent.com/62149967/140778394-b5f5f412-9349-4c99-ba19-c04e2b3d7b2f.png)
 
-![Screenshot (162)](https://user-images.githubusercontent.com/62149967/137630439-1f3c4268-3221-4b74-ab06-a50bd8c5bb65.png)
 
 
 Thank you.
